@@ -1,10 +1,11 @@
 package Exercise1Test;
 
 import Exercise1.OddNumbers;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class OddNumbersTest {
 
@@ -24,10 +25,13 @@ public class OddNumbersTest {
     @DisplayName("When n is smaller than one, should return an empty array")
     public void whenNIsSmallerThanOne_shouldReturnEmptyArray() {
 
+        OddNumbers oddNumbers = new OddNumbers();
+        Assertions.assertThrows(IllegalArgumentException.class, () -> oddNumbers.oddInteger(-1))
+
         int[] expected = {};
 
-        OddNumbers oddNumbers = new OddNumbers();
-        int[] result = oddNumbers.oddInteger(0);
+        oddNumbers = new OddNumbers();
+        int[] result = oddNumbers.oddInteger(-1);
 
         assertArrayEquals(expected, result);
     }

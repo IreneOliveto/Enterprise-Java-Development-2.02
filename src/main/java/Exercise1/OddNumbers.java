@@ -3,7 +3,7 @@ package Exercise1;
 public class OddNumbers {
 
     public int[] oddInteger (int n) {
-        if (n < 1) {
+        if (n <= 1) {
             return new int[] {};
         }
         else {
@@ -14,7 +14,6 @@ public class OddNumbers {
                 oddNumber = oddNumber+2;
             }
             return result;
-
         }
     }
 }

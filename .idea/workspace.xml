@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafef4-92eb-4fa3-a29a-4712370f9e7e" name="Changes" comment="Resolution Ex 4-5" />
+    <list default="true" id="3dfafef4-92eb-4fa3-a29a-4712370f9e7e" name="Changes" comment="Resolution Ex 4-5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise1/OddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/OddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/Irene/IdeaProjects/Enterprise-Java-Development-2.02",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.13386881",
-    "project.structure.side.proportion": "0.4354561"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Irene/Documents/GitHub/RPG-battle-simulator&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.13386881&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4354561&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -165,6 +169,10 @@
       <workItem from="1659424077116" duration="3372000" />
       <workItem from="1659427826039" duration="22000" />
       <workItem from="1659428040501" duration="3215000" />
+      <workItem from="1659440126419" duration="455000" />
+      <workItem from="1659444723409" duration="714000" />
+      <workItem from="1659446088064" duration="172000" />
+      <workItem from="1659456631031" duration="4817000" />
     </task>
     <task id="LOCAL-00001" summary="Resolution Ex 4-5">
       <created>1659431254488</created>
@@ -173,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659431254488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolution Ex 4-5">
+      <created>1659440373325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659440373325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resolution Ex 4-5">
+      <created>1659440534361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659440534361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
