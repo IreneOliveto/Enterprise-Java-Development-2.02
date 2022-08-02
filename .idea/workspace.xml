@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafef4-92eb-4fa3-a29a-4712370f9e7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/ElfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/WarriorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/WizardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3dfafef4-92eb-4fa3-a29a-4712370f9e7e" name="Changes" comment="Resolution Ex 4-5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,8 +164,16 @@
       <workItem from="1659291795835" duration="1132000" />
       <workItem from="1659424077116" duration="3372000" />
       <workItem from="1659427826039" duration="22000" />
-      <workItem from="1659428040501" duration="3107000" />
+      <workItem from="1659428040501" duration="3215000" />
     </task>
+    <task id="LOCAL-00001" summary="Resolution Ex 4-5">
+      <created>1659431254488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659431254488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +189,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolution Ex 4-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolution Ex 4-5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Enterprise_Java_Development_2_02$JavaKeywordsTest.ic" NAME="JavaKeywordsTest Coverage Results" MODIFIED="1659268048144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
