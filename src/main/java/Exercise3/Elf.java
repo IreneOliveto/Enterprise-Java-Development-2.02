@@ -3,6 +3,7 @@ package Exercise3;
 public class Elf extends Player {
 
     public Elf(int health, int strength, int lives) {
+
         super(health, strength, lives);
     }
 
@@ -10,5 +11,4 @@ public class Elf extends Player {
         setStrength(getStrength() * 2);
         setHealth(getHealth() - 1);
     }
-
 }
