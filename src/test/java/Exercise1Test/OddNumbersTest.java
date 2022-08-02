@@ -30,12 +30,5 @@ public class OddNumbersTest {
         int[] result = oddNumbers.oddInteger(0);
 
         assertArrayEquals(expected, result);
-
-
-
-
     }
-
-
-
 }

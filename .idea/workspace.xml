@@ -5,21 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfafef4-92eb-4fa3-a29a-4712370f9e7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise1/OddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise2/JavaKeywords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise2Test/JavaKeywordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/ElfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/WarriorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Exercise3/WizardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercise1Test/OddNumbersTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,29 +46,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Irene/IdeaProjects/Enterprise-Java-Development-2.02&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.13386881&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.4354561&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Irene/IdeaProjects/Enterprise-Java-Development-2.02",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.13386881",
+    "project.structure.side.proportion": "0.4354561"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exercise3" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercise3" />
       <recent name="Exercise1Test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JavaKeywordsTest">
+  <component name="RunManager" selected="JUnit.PlayerTest.whenPlayerAttacks_shouldDecrementHealthOfAttackedPlayerByAttackerStrength">
+    <configuration name="ElfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enterprise-Java-Development-2.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="Exercise3.ElfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElfTest.whenIsAttacked_shouldDecrementLivesByOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Enterprise-Java-Development-2.02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="Exercise3.ElfTest" />
+      <option name="METHOD_NAME" value="whenIsAttacked_shouldDecrementLivesByOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaKeywordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Enterprise-Java-Development-2.02" />
       <extension name="coverage">
@@ -79,48 +120,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaKeywordsTest.whenJavaKeyIsInString_shouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Enterprise-Java-Development-2.02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise2Test.*" />
+          <option name="PATTERN" value="Exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Exercise2Test" />
-      <option name="MAIN_CLASS_NAME" value="Exercise2Test.JavaKeywordsTest" />
-      <option name="METHOD_NAME" value="whenJavaKeyIsInString_shouldReturnTrue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Enterprise-Java-Development-2.02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise1Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Exercise1Test" />
-      <option name="MAIN_CLASS_NAME" value="Exercise1Test.OddNumbersTest" />
+      <option name="PACKAGE_NAME" value="Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="Exercise3.PlayerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddNumbersTest.whenNIsGreaterThanOne_shouldReturnAllOddNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayerTest.whenPlayerAttacks_shouldDecrementHealthOfAttackedPlayerByAttackerStrength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Enterprise-Java-Development-2.02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise1Test.*" />
+          <option name="PATTERN" value="Exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Exercise1Test" />
-      <option name="MAIN_CLASS_NAME" value="Exercise1Test.OddNumbersTest" />
-      <option name="METHOD_NAME" value="whenNIsGreaterThanOne_shouldReturnAllOddNumbers" />
+      <option name="PACKAGE_NAME" value="Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="Exercise3.PlayerTest" />
+      <option name="METHOD_NAME" value="whenPlayerAttacks_shouldDecrementHealthOfAttackedPlayerByAttackerStrength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,10 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PlayerTest.whenPlayerAttacks_shouldDecrementHealthOfAttackedPlayerByAttackerStrength" />
+        <item itemvalue="JUnit.PlayerTest" />
+        <item itemvalue="JUnit.ElfTest" />
+        <item itemvalue="JUnit.ElfTest.whenIsAttacked_shouldDecrementLivesByOne" />
         <item itemvalue="JUnit.JavaKeywordsTest" />
-        <item itemvalue="JUnit.JavaKeywordsTest.whenJavaKeyIsInString_shouldReturnTrue" />
-        <item itemvalue="JUnit.OddNumbersTest" />
-        <item itemvalue="JUnit.OddNumbersTest.whenNIsGreaterThanOne_shouldReturnAllOddNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +171,13 @@
       <updated>1659190060448</updated>
       <workItem from="1659190061789" duration="2652000" />
       <workItem from="1659194704122" duration="717000" />
-      <workItem from="1659261993220" duration="5385000" />
+      <workItem from="1659261993220" duration="7074000" />
+      <workItem from="1659286237239" duration="1875000" />
+      <workItem from="1659288422867" duration="1034000" />
+      <workItem from="1659291795835" duration="1132000" />
+      <workItem from="1659424077116" duration="3372000" />
+      <workItem from="1659427826039" duration="22000" />
+      <workItem from="1659428040501" duration="3107000" />
     </task>
     <servers />
   </component>
